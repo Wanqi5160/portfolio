@@ -6,11 +6,14 @@ html {
 .title {
     font-size: 32px;
     font-family: 'CuteDino', sans-serif;
+    margin: 0;
+    font-weight: 700;
 }
 
 .description {
     font-size: 18px;
     font-family: 'Caveat', sans-serif;
+    margin: 0;
 }
 
 .container {
@@ -19,4 +22,5 @@ html {
     align-items: flex-start;
     justify-content: center;
     height: 100vh;
+    margin: 20px;
 }
