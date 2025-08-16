@@ -3,9 +3,11 @@
     src: url('../src/fonts/CuteDino.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
-  }
-  
-  body {
-    font-family: 'CuteDino', sans-serif;
-  }
-  
+}
+
+@font-face {
+    font-family: 'Caveat';
+    src: url('../src/fonts/Caveat-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
