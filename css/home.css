@@ -5,10 +5,12 @@ html {
 
 .title {
     font-size: 40px;
+    font-family: 'CuteDino', sans-serif;
 }
 
 .description {
     font-size: 20px;
+    font-family: 'CuteDino', sans-serif;
 }
 
 .container {
